@@ -1,2 +1,2 @@
-# YNB_DApp
+# YNB_DApp/Stellar
 YNB&amp;Stellar
